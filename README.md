@@ -1,5 +1,7 @@
 # Lem_in
 
+The algorithmic project: the program parses and validates the requires input, and after that intelligently selects the precise paths and movements that the ants must take in order to get out of the rooms.
+
 We make an ant farm, with tunnels and rooms; we place the ants on one side; and we look
 at how they find the exit.
 
